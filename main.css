@@ -5,7 +5,7 @@ body {
 }
 
 .container main {
-  margin-top: -200px;
+  margin-top: -190px;
 }
 
 .container {
@@ -24,6 +24,7 @@ body {
 .container p {
   color: #05386b;
   font-size: 2vw;
+  margin-bottom: 30px;
  
 }
 
